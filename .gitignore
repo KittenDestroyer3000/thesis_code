@@ -1,0 +1,55 @@
+# Virtual environment
+.venv310/
+.venv/
+venv/
+
+# Raw and intermediate data folders (large, not needed for code review)
+source_data/
+data/
+data_processed/
+data_raw/
+translated_output/
+topic_modelling_en/
+topic_modelling_sp/
+progress/
+clustering/
+embeddings/
+output_adenda_round_1/
+output_adenda_round_2/
+ADENDA_round_2/
+
+# Zip archives
+*.zip
+
+# Large intermediate CSVs containing full document text
+chunks_r*.csv
+chunks_*_translated.csv
+*_translated.csv
+
+# Embeddings (large binary files)
+*.npy
+
+# --- Adenda round folders: mostly data, keep only scripts ---
+adenda_r1/*
+!adenda_r1/*.py
+adenda_r2/*
+!adenda_r2/*.py
+adenda_r3/*
+!adenda_r3/*.py
+
+# --- ICSARA folder: mostly data, keep only scripts ---
+icsara/*
+!icsara/*.py
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.idea/
+*.swp
+
+# Environment variables / API keys
+.env

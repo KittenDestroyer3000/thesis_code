@@ -1,0 +1,10 @@
+master_code,master_label,r1_topics,r2_topics,r3_topics,notes
+M01,Water & drainage,"T02, T03, T05","T01, T03, T11","T04, T10","Covers drainage hydrology water process and chemical treatment across all rounds"
+M02,Native vegetation & flora,"T00, T01","T00, T08","T01, T08","Native forest vegetation flora monitoring and conservation planning"
+M03,Fauna & wildlife,"T10, T12","T06","T03","Fauna baseline sampling relocation and conservation"
+M04,Air quality & health risk,"T11","T02, T10, T12","T02, T05","Air quality emissions monitoring and human health risk assessment"
+M05,Indigenous communities (GHPPI),"T13","T05","T06","Indigenous peoples consultation FPIC cultural heritage across all rounds"
+M06,Emergency & hazardous waste,"T07","T07","T09","Emergency planning contingency hazardous waste management"
+M07,Project phases & infrastructure,"T04, T08",T04,"T00, T07","Construction operation closure phases processing plant and infrastructure"
+M08,Soil & revegetation,"T09",—,"T11","Soil characterisation revegetation planting disposal — T07 R2 partially overlaps"
+M09,Environmental planning & measures,"T06","T09","—","EIA methodology impact assessment mitigation measures — absent as distinct topic in R3"
