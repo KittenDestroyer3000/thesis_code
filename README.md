@@ -20,7 +20,7 @@ This repository contains the full data science pipeline used to:
 ### Adenda processing
 | Script | Description |
 |---|---|
-| `addenda_txt.py` | PDF to text extraction (pdfplumber, EasyOCR fallback) |
+| `adenda_txt.py` | PDF to text extraction (pdfplumber, EasyOCR fallback) |
 | `preprocess.py` | Text to page-based chunks |
 | `translate_openai.py` | Spanish to English translation |
 | `lda_model.py` | LDA topic modelling |
